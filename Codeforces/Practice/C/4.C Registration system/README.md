@@ -1,4 +1,4 @@
-# [C. Registration system](https://codeforces.com/problemset/problem/4/C)
+# [4.C Registration system](https://codeforces.com/problemset/problem/4/C)
 
 -   time limit per test: 5 seconds
 -   memory limit per test: 64 megabytes

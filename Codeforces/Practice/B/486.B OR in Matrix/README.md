@@ -1,4 +1,4 @@
-# [OR in Matrix](https://codeforces.com/contest/486/problem/B)
+# [486.B OR in Matrix](https://codeforces.com/contest/486/problem/B)
 
 -   time limit per test: 1 second
 -   memory limit per test: 256 megabytes
