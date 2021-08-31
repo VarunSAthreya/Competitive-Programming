@@ -16,3 +16,13 @@ Problems:
 
     - [Question](https://www.codechef.com/LTIME99B/problems/CROSBLK)
     - [Solution](./3.%20Crossing%20Blocks.cpp)
+
+4. Chef and Deque
+
+    - [Question](https://www.codechef.com/LTIME99B/problems/CHEFDQE)
+    - [Solution](./4.%20Chef%20and%20Deque.cpp)
+
+5. Bunny Hops
+
+    - [Question](https://www.codechef.com/LTIME99B/problems/BNYHOP)
+    - [Solution](./5.%20Bunny%20Hops.cpp)
