@@ -16,3 +16,8 @@ Problems:
 
     - [Question](https://www.codechef.com/START11B/problems/POSSPEW)
     - [Solution](./3.%20Positive%20Spewing.cpp)
+
+4. ATM Queue
+
+    - [Question](https://www.codechef.com/START11B/problems/ATMQ)
+    - [Solution](./4.%20ATM%20Queue.cpp)
